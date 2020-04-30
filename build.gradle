@@ -20,7 +20,7 @@ subprojects {
 		}
 	}
 }
-
-task wrapper(type: Wrapper) {
-    gradleVersion = '4.8'
-}
+//
+//task wrapper(type: Wrapper) {
+//    gradleVersion = '4.8'
+//}

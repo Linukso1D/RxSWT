@@ -2,5 +2,4 @@ rootProject.name = 'RxSWTRoot'
 
 include ':RxSwt'
 include ':RxEclipse'
-include ':sample'
 
